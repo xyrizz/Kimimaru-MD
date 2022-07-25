@@ -15,4 +15,4 @@ handler.alias = ['ss', 'ssf', 'ssweb', 'sswebf']
 handler.command = /^ss(web)?f?$/i
 handler.exp = 3
 handler.limit = true
-export default handler
+module.exports = handler
