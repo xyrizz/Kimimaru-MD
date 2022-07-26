@@ -62,6 +62,7 @@
         "google-it": "^1.6.2",
         "google-play-scraper": "^9.0.2",
         "human-readable": "^0.2.1",
+        "hxz-api": "^1.0.1",
         "image-to-base64": "^2.2.0",
         "jimp": "^0.16.1",
         "jsdom": "^18.1.1",
