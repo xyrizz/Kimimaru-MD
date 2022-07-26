@@ -41,7 +41,6 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     'xp': 'Exp & Limit',
     'sticker': 'Stiker',
     'jadian': 'Jadian',
-    'textpro': 'Textpro',
     'kerang': 'Kerang Ajaib & Fun',
     'audio': 'Audio Effect',
     'quotes': 'Quotes',
